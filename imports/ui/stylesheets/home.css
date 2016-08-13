@@ -1,0 +1,13 @@
+.navbar-space {
+    height: 50px;
+}
+
+html, body {
+	margin: 0; 
+	height: 100%; 
+	overflow: hidden
+}
+
+body .col-md-6 {
+	padding: 0;
+}
